@@ -1,1 +1,0 @@
-This is a memory game with themes based off of different Holberton School campuses. This game is still in need of a timer and scoreboard.
